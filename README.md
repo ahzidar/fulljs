@@ -1,2 +1,0 @@
-# fulljs
-Full Stact JavaScript
